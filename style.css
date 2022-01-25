@@ -92,16 +92,16 @@ nav {
 
 @keyframes slider {
   0% {
-    background-image: url(pasta.jpg);
+    background-image: url(./images/pasta.jpg);
   }
   35% {
-    background-image: url(samosa.jpg);
+    background-image: url(./images/samosa.jpg);
   }
   75% {
-    background-image: url(parantha.jpg);
+    background-image: url(./images/parantha.jpg);
   }
   110% {
-    background-image: url(pastery.jpg);
+    background-image: url(./images/pastery.jpg);
   }
 }
 
