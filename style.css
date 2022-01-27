@@ -26,7 +26,7 @@ body {
   background-image: url(pasta.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  animation: slider 8s infinite linear;
+  animation: slider 9s infinite linear;
   margin-top: 68px;
 }
 
@@ -94,13 +94,13 @@ nav {
   0% {
     background-image: url(./images/pasta.jpg);
   }
-  35% {
+  33% {
     background-image: url(./images/samosa.jpg);
   }
-  75% {
+  66% {
     background-image: url(./images/parantha.jpg);
   }
-  110% {
+  100% {
     background-image: url(./images/pastery.jpg);
   }
 }
